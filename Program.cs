@@ -4,10 +4,11 @@ int x = int.Parse(Console.ReadLine());
 int y = int.Parse(Console.ReadLine());
 int m = new Random().Next(1, 10);
 int n = new Random().Next(1, 10);
-//int[,] arr = GetArray(m, n);
+int[,] arr = GetArray(m, n);
 PrintArray(arr);
 Console.WriteLine();
-Console.WriteLine(GetArraySum(arr));
+if(x < m && y < n) { Console.WriteLine(arr[x, y]); }
+else {Console.WriteLine("Такого элемента в массиве нет");}
 
 int[,] GetArray(int m, int n) 
 {
@@ -21,18 +22,7 @@ int[,] GetArray(int m, int n)
      }
      return result;
 }
-int GetArraySum(int[,] Array) 
-{   
-     int sum = 0;
-     for (int i = 0; i < Array.GetLength(0); i++)     
-     {
-        for(int j = 0; j < Array.GetLength(1); j++)
-        {
-            if(i == j) sum = sum + Array[i, j];
-        }              
-     }
-     return sum;
-}
+
 void PrintArray(int[,] inArray)
 {
     for(int i = 0; i < inArray.GetLength(0); i++)

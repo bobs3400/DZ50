@@ -1,0 +1,15 @@
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.csproj.AssemblyReference.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.AssemblyInfoInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.AssemblyInfo.cs
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.csproj.CoreCompileInputs.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\bin\Debug\net6.0\DZ50.exe
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\bin\Debug\net6.0\DZ50.deps.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\bin\Debug\net6.0\DZ50.runtimeconfig.json
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\bin\Debug\net6.0\DZ50.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\bin\Debug\net6.0\DZ50.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\refint\DZ50.dll
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.pdb
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\DZ50.genruntimeconfig.cache
+D:\Программа разработчик\Знакомство с языками программирования\Лекция 5\Example\50\DZ50\obj\Debug\net6.0\ref\DZ50.dll
